@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923407913199",
+    "project_id": "acm-app-c81bd",
+    "storage_bucket": "acm-app-c81bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923407913199:android:a8b0155f31e79921e48b1a",
+        "android_client_info": {
+          "package_name": "com.example.acm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923407913199-hpb3rkbh3u0jk9l74q6gvkbc9r5k2o6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQDuVP90B1iSZRUn8xl0ItyD6HK6DZdDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923407913199-hpb3rkbh3u0jk9l74q6gvkbc9r5k2o6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
